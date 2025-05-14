@@ -76,17 +76,8 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "科研项目"
-weight = 2
-url = "projects/"
-
-[[languages.en.menu.main]]
 name = "代表性论文"
 weight = 3
 url = "papers/"
 
-[[languages.en.menu.main]]
-name = "专利"
-weight = 4
-url = "patent/"
 
