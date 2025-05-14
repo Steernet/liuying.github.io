@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://liuying-github-io.vercel.app/"
 title = "刘颖的个人主页"
 theme = "hugo-coder"
 languageCode = "zh-cn"
@@ -29,7 +29,6 @@ keywords = "blog,developer,personal"
 info = ["高级工程师, 硕士生导师", "ICT，CAS","**研究方向**：异构编译技术、并行程序优化",
   "**邮箱**：liuying2007@ict.ac.cn"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
 since = 2007
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
